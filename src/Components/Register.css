@@ -1,0 +1,74 @@
+.text-center{
+    text-align: center;
+}
+h1{
+    color: blue;
+}
+.form-group
+{
+    padding: 20px;
+
+}
+/* .input
+{
+    display: inline-flex;
+} */
+
+#Hello
+{
+    color: red;
+}
+.a1{
+    padding: 10px;
+}
+.a2{
+    width:180px;
+    margin-left: 650px;
+    left: 20px;
+    bottom: 20px;
+    margin-top: 10px;
+
+}
+.a5{
+    color: red;
+}
+.btn{
+    position: relative;
+    margin-left: 800px; 
+    bottom: 40px;
+}
+.night{
+    padding: 10px;
+}
+.grp{
+    padding: 10px;
+}
+button{
+    padding: 10px;
+    background-color:indianred;
+    color: white;
+    border-radius: 20px;
+}
+/* .pay{
+    display:inline-flex;
+} */
+.limit
+{
+    padding:10px;
+}
+.date{
+    padding: 10px;
+}
+label{
+
+    color: black;
+    font-weight: bolder;
+    padding: 10px;
+    margin: 10px;
+}
+.name{
+    position: relative;
+    right: 110px;
+    top: 20px;
+    
+}

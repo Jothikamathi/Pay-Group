@@ -1,0 +1,13 @@
+table td, table th ,table tr {
+    padding: 15px;
+    background-color:burlywood;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: doubleS;
+}
+table{
+    margin: 40px;
+    margin-left: 330px;
+}
